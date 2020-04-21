@@ -8,7 +8,6 @@ import api from '../../services/api';
 import logoImg from '../../../src/assets/logo.png';
 
 import styles from './styles';
-import { fromBottom } from 'react-navigation-transitions';
 
 export default function Incidents() {
     const [incidents, setIncidents] = useState([]);
