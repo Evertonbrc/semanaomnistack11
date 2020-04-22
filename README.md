@@ -2,7 +2,7 @@
 Be-The-Hero é um projeto voltado a conectar instituições de caridade a voluntários e doadores.
 Criado no evento "Semana Omnistack 11" da Rocketseat, as tecnologias utilizadas são: Node.js para o Back-end, ReactJS para o Front-end e React Native para a versão mobile do sistema.
 
-![very good|540x960, 50%](/screenshots/01-01.jpg?raw=true)
+![](/screenshots/01-01.jpg?raw=true width="256" height="256")
 
 ![](/screenshots/01-02.jpg?raw=true)
 
@@ -17,5 +17,3 @@ Criado no evento "Semana Omnistack 11" da Rocketseat, as tecnologias utilizadas 
 ![](/screenshots/02-05.jpg?raw=true)
 
 ![](/screenshots/02-06.jpg?raw=true)
-
-![fat-city-apple-ii|690x473](//assets-meta-cdck-prod-meta.s3.dualstack.us-west-1.amazonaws.com/original/3X/e/7/e76d2a89947069f0ce624d5989fa20c47a13d383.png)
