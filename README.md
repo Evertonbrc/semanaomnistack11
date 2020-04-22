@@ -17,3 +17,5 @@ Criado no evento "Semana Omnistack 11" da Rocketseat, as tecnologias utilizadas 
 ![](/screenshots/02-05.jpg?raw=true)
 
 ![](/screenshots/02-06.jpg?raw=true)
+
+![fat-city-apple-ii|690x473](//assets-meta-cdck-prod-meta.s3.dualstack.us-west-1.amazonaws.com/original/3X/e/7/e76d2a89947069f0ce624d5989fa20c47a13d383.png)
